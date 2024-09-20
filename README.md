@@ -7,7 +7,7 @@
 **Standard Deviation:** 42.4
 **Range:** 408 to 510
 
-  Most customers are distributed between area codes 408 and 510, with an average area code around 437.
+  Most customers are distributed between area codes 408 and 510, with an average area code around 437. 
 
 **Number of Voicemail Messages:**
 
