@@ -13,7 +13,7 @@
 
 **Mean:** 8.1 messages
 **Standard Deviation:** 13.7
-**Range:** 0 to 51 messages
+**Range:** 0 to 51 messages 
   
   The majority of customers have no voicemail messages, with a significant variation across the dataset.
 
