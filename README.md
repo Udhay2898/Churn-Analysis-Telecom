@@ -9,7 +9,7 @@
 
   Most customers are distributed between area codes 408 and 510, with an average area code around 437. 
 
-**Number of Voicemail Messages:**
+**Number of Voicemail Messages:** 
 
 **Mean:** 8.1 messages
 **Standard Deviation:** 13.7
