@@ -16,7 +16,7 @@
 **Range:** 0 to 51 messages 
   
   The majority of customers have no voicemail messages, with a significant variation across the dataset.
-
+ 
 **Total Day Minutes:**
 
 **Mean:** 179.8 minutes
